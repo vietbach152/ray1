@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cloudscraper": "^4.6.0",
+    "events": "^3.3.0",
+    "fs": "^0.0.1-security",
+    "net": "^1.0.2",
+    "randomstring": "^1.2.3",
+    "request": "^2.88.2",
+    "url": "^0.11.0"
+  }
+}
