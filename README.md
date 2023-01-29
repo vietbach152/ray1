@@ -7,7 +7,7 @@
 
 # Installation:
 ```sh
-git clone https://github.com/SkyWtkh/RayNet
+git clone https://github.com/vietbach152/ray1
 sudo apt-get install python3
 sudo apt-get install python3-pip
 cd RayNet
